@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/root/.tmux'
+let g:netrw_dirhist_3='/root/code/free-novel/txt/spiders'
+let g:netrw_dirhist_2='/root/code/free-novel/txt/static'
+let g:netrw_dirhist_1='/root/frp'
